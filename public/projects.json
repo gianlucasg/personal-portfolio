@@ -1,0 +1,39 @@
+{
+    "projects":[
+        {
+            "name":"React Food Menu Restaurant",
+            "description":"Alkemy Challenge for React Training. API Food Recipe integration",
+            "categories":["javascript"],
+            "thumbnail":"/thumbnail/menu.png",
+            "link": "https://github.com/gianlucasg/Alkemy-Challenge-React-Food-Api"
+        },
+        {
+            "name":"Photographer Portoflio",
+            "description":"Personal Portfolio for local Photographer",
+            "categories":["php","javascript"],
+            "thumbnail":"/thumbnail/photo.png",
+            "link": "https://gitlab.com/GianlucasG/pagina-web-bruno-marchesani"
+        },
+        {
+            "name":"To Do List Restful API",
+            "description":"To Do List made with Springboot for Job Interview Challenge",
+            "categories":["java"],
+            "thumbnail":"/thumbnail/todo.png",
+            "link": "https://github.com/gianlucasg/RestulApi-TodoList-Java-Springboot"
+        },
+        {
+            "name":"Hand Detection Games",
+            "description":"Python Script that detects Hands and controls Video Games",
+            "categories":["python"],
+            "thumbnail":"/thumbnail/hand.png",
+            "link": "https://github.com/gianlucasg/Hand-Detection-Games"
+        },
+        {
+            "name":"Capacitive Sensor Game Controller",
+            "description":"Arduino Implementation with Python Script to control Video Games with a conductive material",
+            "categories":["python","c++"],
+            "thumbnail":"/thumbnail/game.png",
+            "link": "https://github.com/gianlucasg/Capacitive-Sensor-Game-Controller"
+        }
+    ]
+}
